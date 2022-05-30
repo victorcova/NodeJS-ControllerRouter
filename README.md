@@ -1,5 +1,9 @@
 # NodeJS-ControllerRouter
  Curso Tera - Criando rotas, regras de negocio, validações, controlador e roteador
+ Neste código criamos o controlador que é puxado pelo roteador e este está sendo usado pela aplicação.
+ APLICAÇÃO -> CONTROLADOR -> ROTEADOR
+
+_____
 
 Regras de negócio:
 
