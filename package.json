@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-controllerrouter",
+  "version": "1.0.0",
+  "description": "Curso Tera - Criando rotas, regras de negocio, validações, controlador e roteador",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
