@@ -3,6 +3,8 @@
  Neste código criamos o controlador que é puxado pelo roteador e este está sendo usado pela aplicação.
  APLICAÇÃO -> ROTEADOR -> CONTROLADOR
 
+ ![alt](cli_router_controller.jpg)
+
 _____
 
 Regras de negócio:
